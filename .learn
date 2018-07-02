@@ -1,6 +1,17 @@
 languages:
   - html
 tags:
+  - elements
+  - headings
+  - typography
+  - images
+  - links
+  - beginner
+  - kids
+resources:
+languages:
+  - html
+tags:
   - validation
   - errors
 resources: 1
